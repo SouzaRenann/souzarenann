@@ -1,4 +1,4 @@
-# 👨‍💻 Renan Souza
+#  Renan Souza
 💻 Software Engineering Student | 🚀 Always learning
 
 Me chamo Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí o ensino médio no SMG. Atualmente, estou cursando Engenharia de Software na Unicesumar, com foco em aprimorar continuamente meus conhecimentos e habilidades.
@@ -23,7 +23,7 @@ Me chamo Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Con
   </a>
 </p>
 
-### 🤖 My Stack
+###  My Stack
 
 <img 
     align="left" 
@@ -93,9 +93,10 @@ Me chamo Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Con
 
 ---
 
-### 📊 Stats & Technologies
+### GitHub Sats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouzaRenann&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaRenann&theme=tokyonight&layout=compact"/>
 </div>
+
