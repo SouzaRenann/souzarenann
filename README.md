@@ -1,11 +1,10 @@
 # 👨‍💻 Renan Souza
+💻 Software Engineering Student | 🚀 Always learning
 
+Me chamo Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí o ensino médio no SMG. Atualmente, estou cursando Engenharia de Software na Unicesumar, com foco em aprimorar continuamente meus conhecimentos e habilidades.
+---
 
-Me chamo Renan Inacio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí o ensino médio no SMG. Atualmente, estou cursando Engenharia de Software na Unicesumar. Com foca em sempre aprimorar meus conhecimentos. 
-
-
-
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -60,12 +59,15 @@ Me chamo Renan Inacio de Souza, tenho 20 anos e sou natural de Maringá/PR. Conc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
+
 <br/>
 <br/>
 
-### 📊 Estatísticas & Tecnologias
+---
+
+### 📊 Stats & Technologies
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouzaRenann&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaRenann&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouzaRenann&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaRenann&theme=tokyonight&layout=compact"/>
 </div>
