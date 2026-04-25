@@ -45,6 +45,15 @@ Me chamo Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Con
 
 <img 
     align="left" 
+    alt="Spring Boot"
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
