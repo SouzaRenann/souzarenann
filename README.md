@@ -5,14 +5,11 @@ Me chamo Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Con
 
 ###  Connect with me!
 
-<p align="left">
+<p>
   <a href="mailto:renaninacio506@gmail.com">
-    <img 
-      alt="Email" 
-      title="Send me an email" 
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
 
   <a href="https://linkedin.com/in/seu-usuario">
     <img 
