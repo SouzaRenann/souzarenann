@@ -1,5 +1,5 @@
 #  Renan Souza
-💻 Software Engineering Student | 🚀 Always learning
+ Software Engineering Student |  Always learning
 
 Sou Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí o ensino médio no SMG. Atualmente, estou cursando Engenharia de Software na Unicesumar, com foco em aprimorar continuamente meus conhecimentos e habilidades.
 
