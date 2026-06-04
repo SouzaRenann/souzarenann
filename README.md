@@ -11,14 +11,13 @@ Sou Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí
   </a>
 </p>
 
-  <a href="https://www.www.linkedin.com/in/souzarenann">
-    <img 
-      alt="LinkedIn" 
-      title="Connect on LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/souzarenann" target="_blank">
+  <img 
+    alt="LinkedIn" 
+    title="Connect on LinkedIn" 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
 
 ###  My Stack
 
