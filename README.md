@@ -89,11 +89,4 @@ Sou Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí
 
 ---
 
-### GitHub Sats
-
-<div align="center">
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SouzaRenann&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SouzaRenann&theme=tokyonight&layout=compact"/>
-</div>
 
