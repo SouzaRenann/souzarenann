@@ -25,7 +25,7 @@ Sou Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí
     align="left" 
     alt="C"
     title="C" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 />
@@ -34,7 +34,7 @@ Sou Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí
     align="left" 
     alt="Java"
     title="Java" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
@@ -43,7 +43,7 @@ Sou Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí
     align="left" 
     alt="Spring Boot"
     title="Spring Boot" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
 />
@@ -52,7 +52,7 @@ Sou Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
 />
@@ -61,7 +61,7 @@ Sou Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
@@ -70,7 +70,7 @@ Sou Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
@@ -79,7 +79,7 @@ Sou Renan Inácio de Souza, tenho 20 anos e sou natural de Maringá/PR. Concluí
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
