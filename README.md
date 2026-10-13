@@ -96,11 +96,8 @@ Software Engineering student focused on continuously improving my skills and app
 <br/>
 <br/>
 
-### 📊 GitHub Stats
+### Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=souzarenann&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzarenann&layout=compact&theme=radical"/>
 </p>
