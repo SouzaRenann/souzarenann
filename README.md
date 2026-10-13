@@ -1,4 +1,4 @@
-#  Renan Souza
+#   Renan Souza
  Software Engineering Student |  Always learning
 
 Software Engineering student focused on continuously improving my skills and applying practical knowledge in software development.Throughout my studies, I have been developing projects that allow me to apply my knowledge of programming, databases, and Full Stack development, using technologies such as Java, Spring Boot, React, and PostgreSQL.
@@ -84,5 +84,23 @@ Software Engineering student focused on continuously improving my skills and app
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+/>
+
 <br/>
 <br/>
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=souzarenann&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzarenann&layout=compact&theme=radical"/>
+</p>
