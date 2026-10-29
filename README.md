@@ -1,103 +1,62 @@
-#   Renan Souza
- Software Engineering Student |  Always learning
 
-Software Engineering student focused on continuously improving my skills and applying practical knowledge in software development.Throughout my studies, I have been developing projects that allow me to apply my knowledge of programming, databases, and Full Stack development, using technologies such as Java, Spring Boot, React, and PostgreSQL.
+<h1 align="center">Hi, I'm Renan Souza 👋</h1>
 
-###  Connect with me!
+<p align="center">
+  <strong>Software Engineering Student</strong> · Software Development
+</p>
 
-<p>
+<p align="center">
+  Building projects, learning new technologies, and improving my skills through practice.
+</p>
+
+<p align="center">
   <a href="mailto:renaninacio506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/souzarenann">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-<a href="https://www.linkedin.com/in/souzarenann" target="_blank">
-  <img 
-    alt="LinkedIn" 
-    title="Connect on LinkedIn" 
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
+---
 
-###  My Stack
+### About Me
 
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-/>
+I'm a Software Engineering student at UniCesumar, focused on continuously improving my skills and applying what I learn to practical projects.
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-/>
+Throughout my studies, I've been working with programming, databases, and Full Stack development, exploring technologies such as Java, Spring Boot, React, and PostgreSQL.
 
-<img 
-    align="left" 
-    alt="Spring Boot"
-    title="Spring Boot" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
-/>
+I'm always looking for opportunities to learn, collaborate, and gain experience in software development.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
+### Technologies & Tools
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,html,css,js,react,vite,bootstrap,postgres,mongodb,git,github&theme=dark" alt="Technologies and tools"/>
+</p>
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
+### Featured Project
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
+**CID App — Public Service Management Platform**
 
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
-/>
+A Full Stack application designed to manage public service requests and citizen reports, with user roles, authentication, and request tracking.
 
-<br/>
-<br/>
+- **Backend:** Java, Spring Boot, Spring Security, JWT
+- **Frontend:** React, Vite, Axios
+- **Database:** PostgreSQL
 
-### Stats
+### GitHub Statistics
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzarenann&layout=compact&theme=radical"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=souzarenann&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzarenann&layout=compact&theme=transparent&hide_border=true" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=souzarenann&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, building, and improving.</i>
 </p>
