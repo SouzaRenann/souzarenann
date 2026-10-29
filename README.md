@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Renan Souza 👋</h1>
+<h1 align="center">Renan Souza </h1>
 
 <p align="center">
   <strong>Software Engineering Student</strong> · Software Development
